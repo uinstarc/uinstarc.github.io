@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uinstarc.github.io/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/app/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/assets/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/css/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/includes/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/item/sitemap.html.gz
+Sitemap: https://uinstarc.github.io/src/sitemap.html.gz
